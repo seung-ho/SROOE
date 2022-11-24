@@ -16,5 +16,6 @@ Single-image super-resolution (SISR) networks trained with perceptual and advers
 - CUDA 11.3
 - Python 3.8
 
-### Visual and quantitative comparison. The proposed SROOE shows a higher PSNR, LRPSNR and lower LPIPS than other state-of-the-art methods, i.e, lower distortion and higher perceptual quality.
-<p align="center"><img src="figure/FxSR-PD_4x.png" width="800"></p>
+### Visual and quantitative comparison. 
+<p align="center"><img src="figure/fig1.png" width="800"></p>
+The proposed SROOE shows a higher PSNR, LRPSNR and lower LPIPS than other state-of-the-art methods, i.e, lower distortion and higher perceptual quality.
